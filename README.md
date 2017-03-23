@@ -31,9 +31,6 @@ tested using our [Test Kitchen][8
 _may_ work, but your mileage may vary.
 
 - CentOS (RHEL) 5.11, 6.7, 7.2
-- Ubuntu 12.04, 14.04
-- Windows 2012r2
-- Debian 7.9, 8.2
 
 ### Client
 Out of the box the default recipe installs and configures the Consul
